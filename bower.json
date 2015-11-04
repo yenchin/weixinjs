@@ -1,0 +1,22 @@
+{
+  "name": "weixin.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yenchin/weixinjs",
+  "authors": [
+    "chenyq002 <chenyq002@foresealife.com>"
+  ],
+  "description": "\"处理微信分享功能\"",
+  "main": "wx.js",
+  "keywords": [
+    "weixin",
+    "share"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
